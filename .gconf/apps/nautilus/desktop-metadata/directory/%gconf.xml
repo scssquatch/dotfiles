@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="nautilus-window-scroll-position" mtime="1318973981" type="string">
+		<stringvalue>x-nautilus-desktop:///Aaron&apos;s%20iPod.volume</stringvalue>
+	</entry>
+	<entry name="nautilus-icon-view-layout-timestamp" mtime="1319034615" type="string">
+		<stringvalue>1319034615</stringvalue>
+	</entry>
+	<entry name="nautilus-icon-view-keep-aligned" mtime="1319034614" type="string">
+		<stringvalue>true</stringvalue>
+	</entry>
+</gconf>

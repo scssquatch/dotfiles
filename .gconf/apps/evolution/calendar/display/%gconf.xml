@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="working_days" mtime="1351699430" type="int" value="62"/>
+	<entry name="day_start_minute" mtime="1351699430" type="int" value="0"/>
+	<entry name="day_start_hour" mtime="1351699430" type="int" value="9"/>
+	<entry name="day_end_minute" mtime="1351699430" type="int" value="0"/>
+	<entry name="day_end_hour" mtime="1351699430" type="int" value="17"/>
+	<entry name="week_start_day" mtime="1351699430" type="int" value="1"/>
+	<entry name="use_system_timezone" mtime="1351699430" type="bool" value="true"/>
+	<entry name="use_24hour_format" mtime="1351699430" type="bool" value="false"/>
+	<entry name="timezone" mtime="1351699430" type="string">
+		<stringvalue>UTC</stringvalue>
+	</entry>
+	<entry name="time_divisions" mtime="1351699430" type="int" value="30"/>
+	<entry name="show_week_numbers" mtime="1351699430" type="bool" value="false"/>
+	<entry name="show_event_end" mtime="1351699430" type="bool" value="true"/>
+	<entry name="recur_events_italic" mtime="1351699430" type="bool" value="false"/>
+	<entry name="primary_calendar" mtime="1351699430" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="month_scroll_by_week" mtime="1351699430" type="bool" value="true"/>
+	<entry name="marcus_bains_line" mtime="1351699430" type="bool" value="true"/>
+	<entry name="marcus_bains_color_timebar" mtime="1351699430" type="string">
+		<stringvalue>#ff0000</stringvalue>
+	</entry>
+	<entry name="marcus_bains_color_dayview" mtime="1351699430" type="string">
+		<stringvalue>#ff0000</stringvalue>
+	</entry>
+	<entry name="compress_weekend" mtime="1351699430" type="bool" value="true"/>
+	<entry name="selected_calendars" mtime="1330932750" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>1330932750.2539.7@Vesuvius</stringvalue>
+		</li>
+	</entry>
+</gconf>

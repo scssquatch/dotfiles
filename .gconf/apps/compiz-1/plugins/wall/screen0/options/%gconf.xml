@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="flip_up_edge" mtime="1322456872" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="flip_right_edge" mtime="1322456872" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="history-gsearchtool-file-entry" mtime="1330402539" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>trash</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>dkms</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>gvim</stringvalue>
+		</li>
+	</entry>
+</gconf>

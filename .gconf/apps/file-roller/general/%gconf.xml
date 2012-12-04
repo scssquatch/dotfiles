@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="editors" mtime="1328159814" type="list" ltype="string">
+	</entry>
+	<entry name="compression_level" mtime="1328159814" type="string">
+		<stringvalue>normal</stringvalue>
+	</entry>
+	<entry name="encrypt_header" mtime="1328159814" type="bool" value="false"/>
+	<entry name="migrate_directories" mtime="1318384774" type="bool" value="false"/>
+</gconf>

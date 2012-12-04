@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="take_window_shot" mtime="1328159813" type="bool" value="false"/>
+	<entry name="last_save_directory" mtime="1328159813" type="string">
+		<stringvalue>file:///home/bakis/Pictures</stringvalue>
+	</entry>
+	<entry name="include_pointer" mtime="1328159813" type="bool" value="true"/>
+	<entry name="include_border" mtime="1328159813" type="bool" value="true"/>
+	<entry name="delay" mtime="1328159813" type="int" value="0"/>
+	<entry name="border_effect" mtime="1328159813" type="string">
+		<stringvalue>none</stringvalue>
+	</entry>
+</gconf>

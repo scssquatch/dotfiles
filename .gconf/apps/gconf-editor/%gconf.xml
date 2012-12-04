@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="recents" mtime="1336496564" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/desktop/cinnamon/windows/edge_tiling</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/cinnamon/windows/theme</stringvalue>
+		</li>
+	</entry>
+</gconf>

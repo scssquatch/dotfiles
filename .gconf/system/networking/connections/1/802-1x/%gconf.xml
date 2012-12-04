@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="phase2-auth" mtime="1319042113" type="string">
+		<stringvalue>mschapv2</stringvalue>
+	</entry>
+	<entry name="name" mtime="1319042113" type="string">
+		<stringvalue>802-1x</stringvalue>
+	</entry>
+	<entry name="identity" mtime="1319042113" type="string">
+		<stringvalue>baker.1833</stringvalue>
+	</entry>
+	<entry name="eap" mtime="1319042113" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>peap</stringvalue>
+		</li>
+	</entry>
+</gconf>

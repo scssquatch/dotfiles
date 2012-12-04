@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="name" mtime="1319042113" type="string">
+		<stringvalue>802-11-wireless-security</stringvalue>
+	</entry>
+	<entry name="key-mgmt" mtime="1319042113" type="string">
+		<stringvalue>wpa-eap</stringvalue>
+	</entry>
+</gconf>

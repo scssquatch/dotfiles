@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="accounts" mtime="1351699430" type="list" ltype="string">
+	</entry>
+	<entry name="send_recv_all_on_start" mtime="1351699430" type="bool" value="false"/>
+	<entry name="send_recv_on_start" mtime="1351699430" type="bool" value="true"/>
+</gconf>

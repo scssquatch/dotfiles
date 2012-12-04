@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="screen_reader_enabled" mtime="1328159809" type="bool" value="false"/>
+	<entry name="screen_magnifier_enabled" mtime="1328159809" type="bool" value="false"/>
+	<entry name="screen_keyboard_enabled" mtime="1328159809" type="bool" value="false"/>
+</gconf>

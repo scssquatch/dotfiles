@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="urlshorter" mtime="1328159814" type="string">
+		<stringvalue>is.gd</stringvalue>
+	</entry>
+	<entry name="show_notifications" mtime="1328159814" type="bool" value="true"/>
+	<entry name="show_fullname" mtime="1328159814" type="bool" value="true"/>
+	<entry name="shorten_urls" mtime="1328159814" type="bool" value="true"/>
+	<entry name="reply_append_colon" mtime="1328159814" type="bool" value="true"/>
+	<entry name="notify_mentions_only" mtime="1328159814" type="bool" value="false"/>
+	<entry name="no_notifications" mtime="1328159814" type="bool" value="false"/>
+	<entry name="interval" mtime="1328159814" type="int" value="15"/>
+	<entry name="autostart" mtime="1328159814" type="bool" value="false"/>
+	<entry name="streams" mtime="1318729815" type="string">
+		<stringvalue>[{&quot;account&quot;: null, &quot;transient&quot;: false, &quot;stream&quot;: &quot;messages&quot;}]</stringvalue>
+	</entry>
+</gconf>

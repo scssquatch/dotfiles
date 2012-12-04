@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="top_edge_threshold" mtime="1322456548" type="int" value="58"/>
+	<entry name="right_edge_threshold" mtime="1322456548" type="int" value="56"/>
+	<entry name="left_edge_threshold" mtime="1322456548" type="int" value="43"/>
+</gconf>

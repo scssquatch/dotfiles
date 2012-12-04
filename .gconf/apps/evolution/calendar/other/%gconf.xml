@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="use_default_reminder" mtime="1351699430" type="bool" value="false"/>
+	<entry name="use_ba_reminder" mtime="1351699430" type="bool" value="false"/>
+	<entry name="default_reminder_units" mtime="1351699430" type="string">
+		<stringvalue>minutes</stringvalue>
+	</entry>
+	<entry name="default_reminder_interval" mtime="1351699430" type="int" value="15"/>
+	<entry name="ba_reminder_units" mtime="1351699430" type="string">
+		<stringvalue>minutes</stringvalue>
+	</entry>
+	<entry name="ba_reminder_interval" mtime="1351699430" type="int" value="15"/>
+</gconf>

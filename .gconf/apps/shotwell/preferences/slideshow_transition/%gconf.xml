@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="name" mtime="1328159815" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="delay" mtime="1328159815" type="float" value="0.29999999999999999"/>
+</gconf>

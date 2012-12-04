@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="empty_on_exit" mtime="1351699430" type="bool" value="false"/>
+	<entry name="check_incoming" mtime="1351699430" type="bool" value="true"/>
+	<entry name="default_plugin" mtime="1351699430" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+</gconf>

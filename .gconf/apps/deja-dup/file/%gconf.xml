@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="path" mtime="1328159813" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="uuid" mtime="1328159813" type="string">
+		<stringvalue>AE2A56682A562D99</stringvalue>
+	</entry>
+	<entry name="short_name" mtime="1328159813" type="string">
+		<stringvalue>Elements</stringvalue>
+	</entry>
+	<entry name="name" mtime="1328159813" type="string">
+		<stringvalue>1.0 TB Hard Disk: Elements</stringvalue>
+	</entry>
+	<entry name="icon" mtime="1328159813" type="string">
+		<stringvalue>. GThemedIcon drive-harddisk-usb drive-harddisk drive</stringvalue>
+	</entry>
+	<entry name="type" mtime="1328159813" type="string">
+		<stringvalue>volume</stringvalue>
+	</entry>
+</gconf>

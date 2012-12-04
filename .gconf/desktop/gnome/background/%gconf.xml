@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="secondary_color" mtime="1318734934" type="string">
+		<stringvalue>#2c2c00001e1e</stringvalue>
+	</entry>
+	<entry name="primary_color" mtime="1318734934" type="string">
+		<stringvalue>#2c2c00001e1e</stringvalue>
+	</entry>
+	<entry name="color_shading_type" mtime="1318734934" type="string">
+		<stringvalue>solid</stringvalue>
+	</entry>
+	<entry name="picture_options" mtime="1318734934" type="string">
+		<stringvalue>centered</stringvalue>
+	</entry>
+	<entry name="picture_filename" mtime="1336449074" type="string">
+		<stringvalue>/home/bakis/.shotwell/wallpaper/wallpaper_alt.jpg</stringvalue>
+	</entry>
+</gconf>

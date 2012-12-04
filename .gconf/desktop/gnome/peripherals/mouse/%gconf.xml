@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="locate_pointer" mtime="1328159813" type="bool" value="false"/>
+	<entry name="left_handed" mtime="1328159813" type="bool" value="false"/>
+	<entry name="drag_threshold" mtime="1328159813" type="int" value="8"/>
+	<entry name="double_click" mtime="1328159813" type="int" value="362"/>
+	<entry name="cursor_theme" mtime="1330364714" type="string">
+		<stringvalue>DMZ-White</stringvalue>
+	</entry>
+	<entry name="motion_acceleration" mtime="1328159813" type="float" value="2"/>
+	<entry name="motion_threshold" mtime="1328159813" type="int" value="5"/>
+	<entry name="cursor_size" mtime="1330364714" type="int" value="24"/>
+</gconf>
