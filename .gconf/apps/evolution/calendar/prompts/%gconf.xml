@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="confirm_purge" mtime="1351699430" type="bool" value="true"/>
-	<entry name="confirm_delete" mtime="1351699430" type="bool" value="true"/>
-</gconf>

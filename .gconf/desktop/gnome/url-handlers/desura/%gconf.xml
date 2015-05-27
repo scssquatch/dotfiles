@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="needs_terminal" mtime="1321577419" type="bool" value="false"/>
-	<entry name="command" mtime="1321577419" type="string">
-		<stringvalue>/home/bakis/Downloads/desura/desura %s</stringvalue>
-	</entry>
-	<entry name="enabled" mtime="1321577419" type="bool" value="true"/>
-</gconf>

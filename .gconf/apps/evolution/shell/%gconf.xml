@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="start_offline" mtime="1351699429" type="bool" value="false"/>
-	<entry name="file_chooser_folder" mtime="1351699429" type="string">
-		<stringvalue></stringvalue>
-	</entry>
-</gconf>

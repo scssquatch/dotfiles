@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="icon_size" mtime="1322456548" type="int" value="32"/>
-	<entry name="launcher_reveal_edge_timeout" mtime="1322456548" type="int" value="710"/>
-	<entry name="launcher_reveal_edge" mtime="1322456548" type="string">
-		<stringvalue></stringvalue>
-	</entry>
-</gconf>
